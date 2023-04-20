@@ -1,0 +1,14 @@
+
+
+
+@font-face {
+    font-family: face;
+    src: url(./fontes/SedgwickAveDisplay-Regular.ttf);
+}
+
+h1{
+font-family:face;
+font-size:80px;
+font-style:italic;
+color: blue
+}

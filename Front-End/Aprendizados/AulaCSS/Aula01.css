@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    color: green; 
+    padding: 10px; /*borda*/
+background-color: rgb(185, 179, 175); /*Muda a cor do fundo*/
+}
+    h1,
+    h2 {
+    color: #ee3e80;
+    }
+    p {
+    color: blue;
+    }
