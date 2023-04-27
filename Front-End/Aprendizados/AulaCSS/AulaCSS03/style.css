@@ -1,14 +1,15 @@
-
-
-
-@font-face {
-    font-family: face;
-    src: url(./fontes/SedgwickAveDisplay-Regular.ttf);
+div{  /*muda o div*/
+height: 300px;
+width: 300px;
+border: 10px;
+background-color: blue;
+border-style: grove;
 }
 
-h1{
-font-family:face;
-font-size:80px;
-font-style:italic;
-color: blue
-}
+p2{  /*muda o p2*/
+background-color: rgb(255, 0, 0);
+height: 200px;
+width: 60px;
+border-style: dotted;
+border: 10px;
+}  

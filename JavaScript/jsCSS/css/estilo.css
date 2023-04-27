@@ -1,0 +1,41 @@
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+    height: 20vh;
+}
+
+.conteiner{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 60vh;
+width: 100%;
+color: white;
+}
+
+.banner-1{
+flex-grow: 1;
+background-color: rgb(244, 199, 0);
+}
+
+.conteudo{
+flex-grow: 1;
+background-color: violet;
+}
+
+.banner-2{
+flex-grow: 1;
+background-color: aquamarine;
+}
+
+.rodape{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: burlywood;
+color: brown;
+height: 20vh;
+}
