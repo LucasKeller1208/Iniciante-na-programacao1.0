@@ -16,4 +16,15 @@ for indice in range(0,len(equipamentos)):
   print("Valor........: ", valores[indice])
   print("Serial.......: ", seriais[indice])
   print("Departamento.: ", departamentos[indice])
+
+
+#Del L[] / Del é usado para apagar algo da lista
+#Tuple é igual a lista porém nao da para alterar os elementos
+#Append joga o elemento pro final da lista
+
+
+
+
+
+
   
